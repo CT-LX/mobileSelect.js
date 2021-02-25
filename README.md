@@ -50,12 +50,12 @@ A multi-function mobile phone scrolling selector, support single to multi-select
 #### Method2 npm install：
 
 ```
-npm install mobile-select -D
+npm install updatemobileselect -D
 ```
 
 Import in your js file：
 ```javascript
-import MobileSelect from 'mobile-select'
+import MobileSelect from 'updatemobileselect'
 ```
 
 
@@ -260,7 +260,7 @@ var mobileSelect2 = new MobileSelect({
 #### ⑤How to use in vue-cli
 
 ```
-npm install mobile-select -D
+npm install updatemobileselect -D
 ```
 
 ```html
@@ -271,7 +271,7 @@ npm install mobile-select -D
 </template>
 
 <script>
-    import MobileSelect from 'mobile-select'
+    import MobileSelect from 'updatemobileselect'
 
     export default {
         mounted() {

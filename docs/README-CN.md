@@ -48,12 +48,12 @@
 #### 方式二 npm：
 
 ```
-npm install mobile-select -D
+npm install updatemobileselect -D
 ```
 
 在你的js文件中import：
 ```javascript
-import MobileSelect from 'mobile-select'
+import MobileSelect from 'updatemobileselect'
 ```
 
 ## 快速使用
@@ -153,7 +153,7 @@ var mobileSelect2 = new MobileSelect({
 #### ④在vue-cli中如何使用
 
 ```
-npm install mobile-select -D
+npm install updatemobileselect -D
 ```
 
 ```html
@@ -164,7 +164,7 @@ npm install mobile-select -D
 </template>
 
 <script>
-    import MobileSelect from 'mobile-select'
+    import MobileSelect from 'updatemobileselect'
 
     export default {
         mounted() {
