@@ -1,7 +1,7 @@
 <p align="center"><img width="130" src="https://github.com/onlyhom/img-folder/blob/master/png/m_logo_orange.png?raw=true"></p>
 <h1 align="center" >mobileSelect.js</h1>
 <p align="center">
-  <a href="https://github.com/onlyhom/mobileSelect.js/blob/master/LICENSE" title="LICENSE">
+  <a href="https://github.com/CT-LX/mobileSelect.js/blob/master/LICENSE" title="LICENSE">
     <img src="https://img.shields.io/npm/l/express.svg" alt="MIT License">
   </a>
   <a href="" title="downloads">
@@ -14,7 +14,7 @@
 
 一款多功能的移动端滚动选择器，支持单选到多选、支持多级级联、提供自定义回调函数、提供update函数二次渲染、重定位函数、兼容pc端拖拽等等..
 
- [【English documents】](https://github.com/onlyhom/mobileSelect.js)
+ [【English documents】](https://github.com/CT-LX/mobileSelect.js)
 
 ## 特性
 
@@ -497,7 +497,7 @@ textColor
 
 ## 许可证
 
-[MIT LICENSE](https://github.com/onlyhom/mobileSelect.js/blob/master/LICENSE)
+[MIT LICENSE](https://github.com/CT-LX/mobileSelect.js/blob/master/LICENSE)
 
 Copyright (c) 2017-present, LIHONG OU(onlyhom)
 

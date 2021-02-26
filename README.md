@@ -1,7 +1,7 @@
 <p align="center"><img width="130" src="https://github.com/onlyhom/img-folder/blob/master/png/m_logo_orange.png?raw=true"></p>
 <h1 align="center" >mobileSelect.js</h1>
 <p align="center">
-  <a href="https://github.com/onlyhom/mobileSelect.js/blob/master/LICENSE" title="LICENSE">
+  <a href="https://github.com/CT-LX/mobileSelect.js/blob/master/LICENSE" title="LICENSE">
     <img src="https://img.shields.io/npm/l/express.svg" alt="MIT License">
   </a>
   <a href="" title="downloads">
@@ -14,7 +14,7 @@
 
 A multi-function mobile phone scrolling selector, support single to multi-select, support multi-level cascade, provide custom callback function, provide update function redraw, relocation function, compatible pc drag and so on.
 
-[【查看中文文档】](https://github.com/onlyhom/mobileSelect.js/blob/master/docs/README-CN.md)
+[【查看中文文档】](https://github.com/CT-LX/mobileSelect.js/blob/master/docs/README-CN.md)
 
 ## Features
 
@@ -508,7 +508,7 @@ Add maskOpacity option
 ## License
 
 
-[MIT LICENSE](https://github.com/onlyhom/mobileSelect.js/blob/master/LICENSE)
+[MIT LICENSE](https://github.com/CT-LX/mobileSelect.js/blob/master/LICENSE)
 
 Copyright (c) 2017-present, LIHONG OU(onlyhom)
 
