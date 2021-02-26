@@ -1,20 +1,17 @@
 {
   "name": "updatemobileselect",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "Mobile selection, new destruction method",
-  "main": "/js/mobileSelect.js",
-  "directories": {
-    "doc": "docs"
-  },
+  "main": "updatemobileselect.js",
   "scripts": {
-    "test": "\"echo \\\"Error:no test specified\\\" && exit 1\""
+    "test": " \"\\\"echo \\\\\"Error:no test specified\\\\\\\" && exit 1\\\"\""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CT-LX/mobileSelect.js.git"
   },
   "keywords": [
-    "省市区联动，新增destory方法"
+    "\"省市区联动，新增destory方法\""
   ],
   "author": "onlyforever",
   "license": "MIT",

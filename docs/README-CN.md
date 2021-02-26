@@ -1,5 +1,5 @@
 <p align="center"><img width="130" src="https://github.com/onlyhom/img-folder/blob/master/png/m_logo_orange.png?raw=true"></p>
-<h1 align="center" >mobileSelect.js</h1>
+<h1 align="center" >updatemobileselect.js</h1>
 <p align="center">
   <a href="https://github.com/CT-LX/mobileSelect.js/blob/master/LICENSE" title="LICENSE">
     <img src="https://img.shields.io/npm/l/express.svg" alt="MIT License">
@@ -42,7 +42,7 @@
 #### 方式一 标签引入：
 ```html
 <link rel="stylesheet" type="text/css" href="css/mobileSelect.css">
-<script src="js/mobileSelect.js" type="text/javascript"></script>
+<script src="js/updatemobileselect.js" type="text/javascript"></script>
 ```
 
 #### 方式二 npm：

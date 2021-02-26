@@ -1,5 +1,5 @@
 <p align="center"><img width="130" src="https://github.com/onlyhom/img-folder/blob/master/png/m_logo_orange.png?raw=true"></p>
-<h1 align="center" >mobileSelect.js</h1>
+<h1 align="center" >updatemobileselect.js</h1>
 <p align="center">
   <a href="https://github.com/CT-LX/mobileSelect.js/blob/master/LICENSE" title="LICENSE">
     <img src="https://img.shields.io/npm/l/express.svg" alt="MIT License">
@@ -44,7 +44,7 @@ A multi-function mobile phone scrolling selector, support single to multi-select
 #### Method1 tag import：
 ```html
 <link rel="stylesheet" type="text/css" href="css/mobileSelect.css">
-<script src="js/mobileSelect.js" type="text/javascript"></script>
+<script src="js/updatemobileselect.js" type="text/javascript"></script>
 ```
 
 #### Method2 npm install：
@@ -393,7 +393,7 @@ npm install updatemobileselect -D
 There is an indexArr parameter in the callback callback function, which is an array that records the currently selected location:     
 After converting this array into a string, you can save it in a hidden field or otherwise, and pass it to the background.     
 Next time you open the page,     
-When the MobileSelect is instantiated, it reads the string, turns it into an array, passes it to position, and completes the initialization position.     
+When the updatemobileselect is instantiated, it reads the string, turns it into an array, passes it to position, and completes the initialization position.     
 
 
 #### Demo of use the function ：
